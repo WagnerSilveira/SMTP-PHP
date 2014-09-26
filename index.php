@@ -27,7 +27,7 @@
 	</style>	
      </head>
      <body>
-          <form action="smtp.controle.php" method='POST' enctype="multipart/form-data" >
+          <form action="" method='POST' enctype="multipart/form-data" >
 			  <div style='margin:auto;width:655px'>
 				   <h3 style='text-align:center;'>SMTP autenticado</h3>
 				   
